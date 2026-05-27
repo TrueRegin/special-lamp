@@ -1,1 +1,2 @@
 A heat source => hot plate
+A water source => copper pipe
