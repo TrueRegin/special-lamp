@@ -2,3 +2,4 @@ A heat source => hot plate
 A water source => copper pipe, sink
 Lighting => LED lightbulb
 Sleep => mattress
+Food storage => chest fridge
