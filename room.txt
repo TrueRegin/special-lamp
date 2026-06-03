@@ -1,5 +1,5 @@
 A heat source => hot plate
 A water source => copper pipe, sink
 Lighting => LED lightbulb
-Sleep => mattress, pillow
+Sleep => mattress, pillow, blanket
 Food storage => chest fridge
