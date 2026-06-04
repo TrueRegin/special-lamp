@@ -3,3 +3,4 @@ A water source => copper pipe, sink
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge
+A floor => concrete
