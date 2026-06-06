@@ -7,3 +7,4 @@ A floor => concrete
 A wall
 A ceiling
 An entrance
+A lavatory => bar soap
