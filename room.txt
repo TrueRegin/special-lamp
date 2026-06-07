@@ -4,7 +4,7 @@ Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge
 A floor => concrete
-A wall
+A wall => insulation
 A ceiling
 An entrance
 A lavatory => bar soap
