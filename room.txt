@@ -2,9 +2,10 @@ A heat source => hot plate
 A water source => copper pipe, sink
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
-Food storage => chest fridge
+Food storage => chest fridge, x5 gallon glass jars
 A floor => concrete
 A wall => insulation
 A ceiling
 An entrance
 A lavatory => bar soap
+
