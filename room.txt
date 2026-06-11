@@ -7,5 +7,4 @@ A floor => concrete
 A wall => insulation
 A ceiling
 An entrance
-A lavatory => bar soap
-
+A lavatory => bar soap, hand towel
