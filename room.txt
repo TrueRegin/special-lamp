@@ -2,7 +2,7 @@ A heat source => hot plate
 A water source => copper pipe, sink
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
-Food storage => chest fridge, x1 shelf, x5 gallon glass jars, x7 32oz glass jars
+Food storage => chest fridge, x1 shelf, pest proof space, x5 gallon glass jars, x7 32oz glass jars
 A floor => concrete
 A wall => insulation
 A ceiling
