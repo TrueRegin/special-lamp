@@ -1,4 +1,4 @@
-A heat source => hot plate
+A heat source => hot plate, oven
 A water source => copper pipe, sink
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
