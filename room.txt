@@ -3,7 +3,7 @@ A water source => copper pipe, sink
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, x5 gallon glass jars, x7 32oz glass jars
-Food preparation => counter, 4 gallon pot, knife
+Food preparation => counter, 4 gallon pot, knife, large glass mixing bowl
 A floor => concrete
 A wall => insulation
 A ceiling
