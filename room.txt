@@ -1,5 +1,5 @@
 A heat source => 
-A water source => copper pipe, sink
+A water source => copper pipe, sink, filtration system
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, x5 gallon glass jars, x7 32oz glass jars
