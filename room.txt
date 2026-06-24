@@ -7,6 +7,5 @@ Food preparation => counter, 4 gallon pot, knife, large glass mixing bowl, hot p
 A floor => concrete
 A wall => insulation
 A ceiling
-An entrance
+An entrance => coat hooks
 A lavatory => bar soap, hand towel
-
