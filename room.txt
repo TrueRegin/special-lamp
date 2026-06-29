@@ -15,3 +15,5 @@ Laundry => hamper, detergent
 Sanitization
 Internet
 Plants
+Pests
+Storage
