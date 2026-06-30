@@ -10,10 +10,11 @@ A ceiling
 An entrance => coat hooks
 A lavatory => bar soap, hand towel
 Clothing => closet
-Laundry => hamper, detergent
+Laundry => hamper, detergent, metal pipe
 
 Sanitization
 Internet
 Plants
 Pests
 Storage
+
