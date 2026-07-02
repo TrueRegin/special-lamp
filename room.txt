@@ -17,4 +17,5 @@ Internet
 Plants
 Pests
 Storage
-
+Safety
+Temperature
