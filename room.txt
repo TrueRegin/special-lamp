@@ -10,7 +10,7 @@ A ceiling
 An entrance => coat hooks
 A lavatory => bar soap, hand towel
 Clothing => closet, hangers
-Laundry => hamper, detergent, metal pipe
+Laundry => hamper, detergent, metal pipe, drain pipe
 
 Sanitization
 Internet
