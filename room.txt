@@ -7,7 +7,7 @@ Food preparation => counter, movable island, 4 gallon pot, knife, large glass mi
 A floor => concrete
 A wall => insulation
 A ceiling
-An entrance => coat hooks
+An entrance => coat hooks, hard floor
 A lavatory => bar soap, hand towel
 Clothing => closet, hangers
 Laundry => hamper, detergent, metal pipe, drain pipe
