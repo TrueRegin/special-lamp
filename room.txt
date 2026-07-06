@@ -9,7 +9,7 @@ A floor => concrete
 A wall => insulation
 A ceiling
 An entrance => coat hooks, hard floor
-A lavatory => bar soap, hand towel
+A lavatory => bar soap, hand towel, drain pipe
 Clothing => closet, hangers
 Laundry => hamper, detergent, metal pipe, drain pipe
 
