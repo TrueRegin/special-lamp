@@ -14,7 +14,7 @@ Clothing => closet, hangers
 Laundry => hamper, detergent, metal pipe, drain pipe
 Sanitization => UV box
 Hygiene => shower head, drain pipe, tub, shower door
-  Teeth => silk floss
+  Teeth => silk floss, toothbrush
 
 
 Internet
