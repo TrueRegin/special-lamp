@@ -7,4 +7,5 @@ https://news.ycombinator.com/item?id=
 - 189 https://web.archive.org/web/20070222125635/http://ycombinator.com/announcingnews.html
 - 190 Wesch https://web.archive.org/web/20070228170734/http://battellemedia.com/archives/003386.php
 - 191 https://web.archive.org/web/20070222021630/http://news.bbc.co.uk/1/hi/technology/6375525.stm
-- app https://web.archive.org/web/20070227144015/http://www.mindmeister.com/
+- 192 app https://web.archive.org/web/20070227144015/http://www.mindmeister.com/
+- 201 https://web.archive.org/web/20070223041145/http://blog.pairwise.com/2007/02/19/on-being-stalked-by-a-fellow-startup-an-open-letter-to-morecutecom/
