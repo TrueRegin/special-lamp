@@ -23,3 +23,5 @@ Pests
 Storage
 Safety
 Temperature
+Organization
+Paper
