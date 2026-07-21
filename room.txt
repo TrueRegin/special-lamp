@@ -5,6 +5,7 @@ Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, x5 gallon glass jars, x7 32oz glass jars, glass container with top
 Food preparation => counter, movable island, 4 gallon pot, knife, large glass mixing bowl, hot plate, oven, wooden rod, wood measuring cups + spoons, cast iron pan, large spoon
+Resources => salt
 A floor => concrete
 A wall => insulation
 A ceiling
