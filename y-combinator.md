@@ -12,3 +12,4 @@ https://news.ycombinator.com/item?id=
 - 202 https://web.archive.org/web/20070222081911/http://scobleizer.com/2007/02/20/a-real-silicon-valley-garage-startup/
 - 203
 - 204 https://web.archive.org/web/20070223053652/http://www.techcrunch.com/2007/02/20/union-square-ventures-funds-adaptive-blue/
+- 212 https://web.archive.org/web/20070222163036/https://www.infoworld.com/archives/emailprint.jsp?R=printThis&A=/article/07/02/19/08FEcrackpot_1.html
