@@ -1,6 +1,6 @@
 A heat source => 
 A water source => copper pipe, sink, filtration system
-Air => oven fume hood
+Air => oven fume hood, radon removal
 Lighting => LED lightbulb
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, x5 gallon glass jars, x7 32oz glass jars, glass container with top
