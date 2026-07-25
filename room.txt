@@ -16,7 +16,7 @@ Laundry => hamper, detergent, metal pipe, drain pipe
 Sanitization => UV box
 Hygiene => shower head, drain pipe, tub, shower door, towel
   Teeth => silk floss, toothbrush
-
+Misc => Pens
 
 Internet
 Plants
