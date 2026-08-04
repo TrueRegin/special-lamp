@@ -26,3 +26,5 @@ Safety
 Temperature
 Organization
 Paper
+Garbage
+Guests
