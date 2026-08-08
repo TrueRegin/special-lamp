@@ -9,7 +9,7 @@ Resources => salt, baking soda, washing soda
 A floor => concrete
 A wall => insulation
 A ceiling
-An entrance => coat hooks, hard floor, step up to indoors
+An entrance => door, coat hooks, hard floor, step up to indoors
 A lavatory => bar soap, hand towel, towel holder, drain pipe, sink, faucet
 Clothing => closet, hangers
 Laundry => hamper, detergent, metal pipe, drain pipe
