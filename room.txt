@@ -12,7 +12,7 @@ A ceiling
 An entrance => door, coat hooks, hard floor, step up to indoors
 A lavatory => bar soap, hand towel, towel holder, drain pipe, sink, faucet
 Clothing => closet, hangers
-Laundry => hamper, detergent, metal pipe, drain pipe
+Laundry => hamper, detergent, metal pipe, drain pipe, dryer
 Sanitization => UV box
 Hygiene => shower head, drain pipe, tub, shower door, towel
   Teeth => silk floss, toothbrush
