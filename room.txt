@@ -1,6 +1,7 @@
 A heat source => 
 A water source => copper pipe, sink, filtration system
 Air => oven fume hood, radon removal, fan
+Plants => mint
 Lighting => LED lightbulb, night mode
 Sleep => mattress, pillow, blanket
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, cupboard, x5 gallon glass jars, x7 32oz glass jars, glass container with top
@@ -20,7 +21,6 @@ Misc => pens, pencils, clearable writing board, broom
 Garbage => garbage bin, compost bin
 
 Internet
-Plants
 Pests
 Storage
 Safety
