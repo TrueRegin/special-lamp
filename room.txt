@@ -1,7 +1,7 @@
 A heat source => 
 A water source => copper pipe, sink, filtration system
 Air => oven fume hood, radon removal, fan
-Plants => mint
+Plants => mint, ginger
 Lighting => LED lightbulb, night mode
 Sleep => mattress, pillow, blanket, winter blanket
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, cupboard, x5 gallon glass jars, x7 32oz glass jars, glass container with top, bulk storage area
