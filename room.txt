@@ -19,7 +19,7 @@ Hygiene => shower head, drain pipe, tub, shower door, towel
   Teeth => silk floss, toothbrush
 Misc => pens, pencils, clearable writing board, broom
 Garbage => garbage bin, compost bin
-Guests => x2 beds
+Guests => x2 beds, table
 
 Internet
 Pests
