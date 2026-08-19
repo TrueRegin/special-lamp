@@ -18,7 +18,7 @@ Sanitization => UV box
 Hygiene => shower head, drain pipe, tub, shower door, towel
   Teeth => silk floss, toothbrush
 Misc => pens, pencils, clearable writing board, broom
-Garbage => garbage bin, compost bin
+Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table
 
 Internet
