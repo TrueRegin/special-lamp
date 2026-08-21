@@ -1,6 +1,6 @@
 A heat source => 
 A water source => copper pipe, sink, filtration system
-Air => oven fume hood, radon removal, fan
+Air => oven fume hood, radon removal, fan, air filtration device
 Plants => mint, garlic, ginger
 Lighting => LED lightbulb, night mode
 Sleep => mattress, pillow, blanket, winter blanket
