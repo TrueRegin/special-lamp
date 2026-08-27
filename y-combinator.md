@@ -19,3 +19,5 @@ https://news.ycombinator.com/item?id=
 - 227 https://web.archive.org/web/20070223035643/http://octopart.com/html/blog.html
 - 229 https://web.archive.org/web/20070222223033/http://habtm.com/articles/2007/2/21/the-fabulous-spider-fuzz-plugin
 - 233 https://web.archive.org/web/20121110142326/http://www.obsceneart.com/blog/?p=19
+- 234 http://en.wikipedia.org/wiki/Long-Term_Capital_Management
+- 235 https://web.archive.org/web/20071209181938/http://www.usenix.org/events/fast07/tech/schroeder/schroeder_html/index.html
