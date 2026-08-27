@@ -17,6 +17,7 @@ Laundry => hamper, detergent, metal pipe, drain pipe, dryer
 Sanitization => UV box
 Hygiene => shower head, drain pipe, tub, shower door, towel, bar soap
   Teeth => silk floss, toothbrush
+  Misc => nail clippers
 Misc => pens, pencils, clearable writing board, broom
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table
@@ -28,3 +29,4 @@ Safety
 Temperature
 Organization
 Paper
+
