@@ -29,4 +29,6 @@ Safety
 Temperature
 Organization
 Paper
+Design Work
+Outside
 
