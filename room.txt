@@ -6,7 +6,7 @@ Lighting => LED lightbulb, night mode
 Sleep => mattress, pillow, blanket, winter blanket, curtain
 Food storage => chest fridge, chest freezer, x1 shelf, pest proof space, cupboard, x5 gallon glass jars, x7 32oz glass jars, glass container with top, bulk storage area
 Food preparation => counter, movable island, 4 gallon pot, 1 gallon pot, knife, large glass mixing bowl, hot plate, oven, wooden rod, wood measuring cups + spoons, cast iron pan, large wood spoon, large spoon, small spoons, 8oz glass jar, pipette, hand cloths
-Resources => salt, baking soda, washing soda, calcium hydroxide
+Resources => salt, baking soda, washing soda, calcium hydroxide, food oil
 A floor => concrete
 A wall => insulation
 A ceiling
