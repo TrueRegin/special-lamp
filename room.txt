@@ -21,6 +21,7 @@ Hygiene => shower head, drain pipe, tub, shower door, towel, bar soap
 Misc => pens, pencils, clearable writing board, broom, clipboard, flashlight, paper tray
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
+Tools => screwdriver
 
 Internet
 Pests
@@ -31,6 +32,5 @@ Organization
 Paper
 Design Work
 Outside
-Tools
 Electricity
 
