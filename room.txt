@@ -19,6 +19,7 @@ Hygiene => shower head, drain pipe, tub, shower door, towel, bar soap
   Teeth => silk floss, toothbrush
   Misc => nail clippers
 Misc => pens, pencils, clearable writing board, broom, clipboard, flashlight, paper tray, tweezers, scissors, wood ruler, rope, gloves, ladder
+Biking => tire pump
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
 Tools => screwdriver
