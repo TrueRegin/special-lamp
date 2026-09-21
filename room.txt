@@ -34,4 +34,5 @@ Paper
 Design Work
 Outside
 Electricity
-
+Furniture
+Decoration
