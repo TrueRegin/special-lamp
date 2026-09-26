@@ -23,6 +23,7 @@ Biking => tire pump, helmet
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
 Tools => screwdriver
+Furniture => wood bench
 
 Internet
 Pests
@@ -34,5 +35,4 @@ Paper
 Design Work
 Outside
 Electricity
-Furniture
 Decoration
