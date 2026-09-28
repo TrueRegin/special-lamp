@@ -24,6 +24,8 @@ Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
 Tools => screwdriver
 Furniture => wood bench
+Outside
+  Cold weather => tall boots
 
 Internet
 Pests
@@ -33,6 +35,5 @@ Temperature
 Organization
 Paper
 Design Work
-Outside
 Electricity
 Decoration
