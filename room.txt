@@ -25,7 +25,7 @@ Guests => x2 beds, table, clothing bin
 Tools => screwdriver
 Furniture => wood bench
 Outside
-  Cold weather => tall boots
+  Cold weather => tall boots, insulating clothing
 
 Internet
 Pests
