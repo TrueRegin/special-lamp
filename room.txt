@@ -23,7 +23,7 @@ Biking => tire pump, helmet, gloves, storage, reflectors
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
 Tools => screwdriver
-Furniture => wood bench, tall lamp
+Furniture => wood bench, tall lamp, painting
 Outside
   Cold weather => tall boots, insulating clothing
 
