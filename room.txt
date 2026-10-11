@@ -27,7 +27,7 @@ Tools => screwdriver
 Furniture => wood bench, tall lamp, painting
 Outside
   Cold weather => tall boots, insulating clothing, snow shovel, snow shoes
-
+Paper => archive area
 
 Internet
 Storage
