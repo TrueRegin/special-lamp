@@ -23,7 +23,7 @@ Misc => pens, pencils, pencil container, clearable writing board, broom, clipboa
 Biking => tire pump, helmet, gloves, storage, reflectors, tire tubes
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
-Tools => screwdriver
+Tools => screwdriver, sandpaper
 Furniture => wood bench, tall lamp, painting
 Outside
   Cold weather => tall boots, insulating clothing, snow shovel, snow shoes
