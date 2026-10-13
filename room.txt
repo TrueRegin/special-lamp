@@ -26,7 +26,7 @@ Guests => x2 beds, table, clothing bin
 Tools => screwdriver, sandpaper
 Furniture => wood bench, tall lamp, painting
 Outside
-  Cold weather => tall boots, insulating clothing, snow shovel, snow shoes
+  Cold weather => tall boots, insulating clothing, snow shovel, snow shoes, balaclava
 Paper => archive area
 
 Internet
