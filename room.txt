@@ -24,11 +24,11 @@ Biking => tire pump, helmet, gloves, storage, reflectors, tire tubes
 Garbage => garbage bin, compost bin, paper bin
 Guests => x2 beds, table, clothing bin
 Tools => screwdriver, sandpaper, electric saw
-Furniture => wood bench, tall lamp, painting
+Furniture => wood bench, tall lamp, painting, stool
 Outside
   Cold weather => tall boots, insulating clothing, snow shovel, snow shoes, balaclava
 Paper => archive area, table, lined paper, clipboard
-  Categories =>
+  Categories => 
 
 Internet
 Storage
