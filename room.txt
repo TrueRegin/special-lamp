@@ -27,7 +27,7 @@ Tools => screwdriver, sandpaper, electric saw
 Furniture => wood bench, tall lamp, painting, stool
 Outside
   Cold weather => tall boots, insulating clothing, snow shovel, snow shoes, balaclava
-Paper => archive area, table, lined paper, clipboard
+Paper => archive area, table, lined paper, clipboard, binders
   Categories => 
 
 Internet
